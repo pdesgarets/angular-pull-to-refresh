@@ -1,6 +1,6 @@
 /**
  * angular-pull-to-refresh
- * @version v0.3.0 - 2015-11-26
+ * @version v0.3.2 - 2015-12-16
  * @link https://github.com/mgcrea/angular-pull-to-refresh
  * @author Olivier Louvignes <olivier@mg-crea.com>
  * @license MIT License, http://www.opensource.org/licenses/MIT
